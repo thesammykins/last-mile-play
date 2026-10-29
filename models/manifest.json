@@ -1,0 +1,368 @@
+{
+  "ps-516": {
+    "file": "models/ps-516.glb",
+    "triangles": 776,
+    "bytes": 19280
+  },
+  "ps-316": {
+    "file": "models/ps-316.glb",
+    "triangles": 776,
+    "bytes": 19348
+  },
+  "tip-316": {
+    "file": "models/tip-316.glb",
+    "triangles": 968,
+    "bytes": 22328
+  },
+  "ps-c30": {
+    "file": "models/ps-c30.glb",
+    "triangles": 732,
+    "bytes": 16912
+  },
+  "host": {
+    "file": "models/host.glb",
+    "triangles": 320,
+    "bytes": 9344
+  },
+  "teletype": {
+    "file": "models/teletype.glb",
+    "triangles": 676,
+    "bytes": 13920
+  },
+  "dataset-50k": {
+    "file": "models/dataset-50k.glb",
+    "triangles": 96,
+    "bytes": 4780
+  },
+  "dsu-56k": {
+    "file": "models/dsu-56k.glb",
+    "triangles": 96,
+    "bytes": 4780
+  },
+  "csu-t1": {
+    "file": "models/csu-t1.glb",
+    "triangles": 96,
+    "bytes": 4788
+  },
+  "rack-19": {
+    "file": "models/rack-19.glb",
+    "triangles": 72,
+    "bytes": 4584
+  },
+  "router-56k": {
+    "file": "models/router-56k.glb",
+    "triangles": 144,
+    "bytes": 6196
+  },
+  "router-cirrus": {
+    "file": "models/router-cirrus.glb",
+    "triangles": 216,
+    "bytes": 7160
+  },
+  "router-t1-node": {
+    "file": "models/router-t1-node.glb",
+    "triangles": 552,
+    "bytes": 13520
+  },
+  "terminal-server-16": {
+    "file": "models/terminal-server-16.glb",
+    "triangles": 264,
+    "bytes": 7892
+  },
+  "terminal-server-30": {
+    "file": "models/terminal-server-30.glb",
+    "triangles": 360,
+    "bytes": 9304
+  },
+  "access-server-48": {
+    "file": "models/access-server-48.glb",
+    "triangles": 300,
+    "bytes": 7064
+  },
+  "modem-shelf-beige": {
+    "file": "models/modem-shelf-beige.glb",
+    "triangles": 396,
+    "bytes": 8276
+  },
+  "modem-shelf-black": {
+    "file": "models/modem-shelf-black.glb",
+    "triangles": 396,
+    "bytes": 8276
+  },
+  "modem-300": {
+    "file": "models/modem-300.glb",
+    "triangles": 108,
+    "bytes": 4140
+  },
+  "modem-14k4": {
+    "file": "models/modem-14k4.glb",
+    "triangles": 108,
+    "bytes": 4144
+  },
+  "thick-ethernet": {
+    "file": "models/thick-ethernet.glb",
+    "triangles": 240,
+    "bytes": 7028
+  },
+  "thin-ethernet": {
+    "file": "models/thin-ethernet.glb",
+    "triangles": 80,
+    "bytes": 3928
+  },
+  "punch-down-frame": {
+    "file": "models/punch-down-frame.glb",
+    "triangles": 636,
+    "bytes": 10932
+  },
+  "phone-rotary": {
+    "file": "models/phone-rotary.glb",
+    "triangles": 88,
+    "bytes": 4628
+  },
+  "phone-pushbutton": {
+    "file": "models/phone-pushbutton.glb",
+    "triangles": 168,
+    "bytes": 5128
+  },
+  "phone-multiline": {
+    "file": "models/phone-multiline.glb",
+    "triangles": 168,
+    "bytes": 5128
+  },
+  "terminal": {
+    "file": "models/terminal.glb",
+    "triangles": 36,
+    "bytes": 3812
+  },
+  "terminal-green": {
+    "file": "models/terminal-green.glb",
+    "triangles": 36,
+    "bytes": 3892
+  },
+  "pc": {
+    "file": "models/pc.glb",
+    "triangles": 48,
+    "bytes": 4616
+  },
+  "desk-1970s": {
+    "file": "models/desk-1970s.glb",
+    "triangles": 128,
+    "bytes": 8772
+  },
+  "desk-1980s": {
+    "file": "models/desk-1980s.glb",
+    "triangles": 128,
+    "bytes": 8772
+  },
+  "desk-1990s": {
+    "file": "models/desk-1990s.glb",
+    "triangles": 128,
+    "bytes": 8768
+  },
+  "partition": {
+    "file": "models/partition.glb",
+    "triangles": 24,
+    "bytes": 2968
+  },
+  "console-1970s": {
+    "file": "models/console-1970s.glb",
+    "triangles": 436,
+    "bytes": 13568
+  },
+  "van-1970s": {
+    "file": "models/van-1970s.glb",
+    "triangles": 216,
+    "bytes": 5220
+  },
+  "van-1980s": {
+    "file": "models/van-1980s.glb",
+    "triangles": 228,
+    "bytes": 6152
+  },
+  "van-1990s": {
+    "file": "models/van-1990s.glb",
+    "triangles": 228,
+    "bytes": 6152
+  },
+  "dc-rack-10kw": {
+    "file": "models/dc-rack-10kw.glb",
+    "triangles": 192,
+    "bytes": 6568
+  },
+  "dc-rack-ai": {
+    "file": "models/dc-rack-ai.glb",
+    "triangles": 424,
+    "bytes": 11784
+  },
+  "dc-network-rack": {
+    "file": "models/dc-network-rack.glb",
+    "triangles": 648,
+    "bytes": 13168
+  },
+  "dc-crac": {
+    "file": "models/dc-crac.glb",
+    "triangles": 156,
+    "bytes": 5992
+  },
+  "dc-crah": {
+    "file": "models/dc-crah.glb",
+    "triangles": 304,
+    "bytes": 7364
+  },
+  "dc-cdu": {
+    "file": "models/dc-cdu.glb",
+    "triangles": 220,
+    "bytes": 6544
+  },
+  "dc-ups": {
+    "file": "models/dc-ups.glb",
+    "triangles": 144,
+    "bytes": 5480
+  },
+  "solar-block": {
+    "file": "models/solar-block.glb",
+    "triangles": 672,
+    "bytes": 7072
+  },
+  "battery-container": {
+    "file": "models/battery-container.glb",
+    "triangles": 144,
+    "bytes": 6724
+  },
+  "gas-turbine": {
+    "file": "models/gas-turbine.glb",
+    "triangles": 112,
+    "bytes": 6476
+  },
+  "diesel-generator": {
+    "file": "models/diesel-generator.glb",
+    "triangles": 136,
+    "bytes": 6872
+  },
+  "substation": {
+    "file": "models/substation.glb",
+    "triangles": 468,
+    "bytes": 10480
+  },
+  "chiller": {
+    "file": "models/chiller.glb",
+    "triangles": 332,
+    "bytes": 4288
+  },
+  "person-1970s": {
+    "file": "models/person-1970s.glb",
+    "triangles": 2244,
+    "bytes": 141524
+  },
+  "person-1980s": {
+    "file": "models/person-1980s.glb",
+    "triangles": 2244,
+    "bytes": 141128
+  },
+  "person-1990s": {
+    "file": "models/person-1990s.glb",
+    "triangles": 2232,
+    "bytes": 141932
+  },
+  "person-field-1990s": {
+    "file": "models/person-field-1990s.glb",
+    "triangles": 2256,
+    "bytes": 151800
+  },
+  "tree-oak": {
+    "file": "models/tree-oak.glb",
+    "bytes": 5812,
+    "height": 6.5,
+    "source": "@netforge/asset-library-files@0.2.0"
+  },
+  "tree-pine": {
+    "file": "models/tree-pine.glb",
+    "bytes": 4968,
+    "height": 9,
+    "source": "@netforge/asset-library-files@0.2.0"
+  },
+  "tree-palm": {
+    "file": "models/tree-palm.glb",
+    "bytes": 6184,
+    "height": 7,
+    "source": "@netforge/asset-library-files@0.2.0"
+  },
+  "tree-gum": {
+    "file": "models/tree-gum.glb",
+    "bytes": 3816,
+    "height": 8,
+    "source": "@netforge/asset-library-files@0.2.0"
+  },
+  "bush": {
+    "file": "models/bush.glb",
+    "bytes": 3180,
+    "height": 1.4,
+    "source": "@netforge/asset-library-files@0.2.0"
+  },
+  "rock": {
+    "file": "models/rock.glb",
+    "bytes": 4256,
+    "height": 1.2,
+    "source": "@netforge/asset-library-files@0.2.0"
+  },
+  "car-sedan": {
+    "file": "models/car-sedan.glb",
+    "bytes": 32048,
+    "height": 1.45,
+    "source": "@netforge/asset-library-files@0.2.0"
+  },
+  "car-suv": {
+    "file": "models/car-suv.glb",
+    "bytes": 36232,
+    "height": 1.75,
+    "source": "@netforge/asset-library-files@0.2.0"
+  },
+  "van-modern": {
+    "file": "models/van-modern.glb",
+    "bytes": 32692,
+    "height": 2.3,
+    "source": "@netforge/asset-library-files@0.2.0"
+  },
+  "truck-delivery": {
+    "file": "models/truck-delivery.glb",
+    "bytes": 32704,
+    "height": 3.2,
+    "source": "@netforge/asset-library-files@0.2.0"
+  },
+  "dish-small": {
+    "file": "models/dish-small.glb",
+    "bytes": 6844,
+    "height": 3,
+    "source": "@netforge/asset-library-files@0.2.0"
+  },
+  "picture-frame": {
+    "file": "models/picture-frame.glb",
+    "bytes": 99600,
+    "height": 0.84,
+    "source": "polyhaven@2026-10-29"
+  },
+  "wall-clock": {
+    "file": "models/wall-clock.glb",
+    "bytes": 175032,
+    "height": 0.32,
+    "source": "polyhaven@2026-10-29"
+  },
+  "planter-box": {
+    "file": "models/planter-box.glb",
+    "bytes": 228460,
+    "height": 0.42,
+    "source": "polyhaven@2026-10-29"
+  },
+  "utility-pedestal": {
+    "file": "models/utility-pedestal.glb",
+    "bytes": 168596,
+    "height": 1.12,
+    "source": "polyhaven@2026-10-29"
+  },
+  "steel-shelving": {
+    "file": "models/steel-shelving.glb",
+    "bytes": 137888,
+    "height": 1.8,
+    "source": "polyhaven@2026-10-29"
+  }
+}

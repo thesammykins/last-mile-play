@@ -1,0 +1,120 @@
+{
+  "carpet-beige": {
+    "tile": 1.5,
+    "maps": [
+      "textures/carpet-beige_color.jpg",
+      "textures/carpet-beige_normal.jpg",
+      "textures/carpet-beige_rough.jpg"
+    ],
+    "bytes": 192203
+  },
+  "carpet-navy": {
+    "tile": 1.5,
+    "maps": [
+      "textures/carpet-navy_color.jpg",
+      "textures/carpet-navy_normal.jpg",
+      "textures/carpet-navy_rough.jpg"
+    ],
+    "bytes": 319047
+  },
+  "vinyl-tile": {
+    "tile": 1.2,
+    "maps": [
+      "textures/vinyl-tile_color.jpg",
+      "textures/vinyl-tile_normal.jpg",
+      "textures/vinyl-tile_rough.jpg"
+    ],
+    "bytes": 158009
+  },
+  "floor-tile": {
+    "tile": 1.2,
+    "maps": [
+      "textures/floor-tile_color.jpg",
+      "textures/floor-tile_normal.jpg",
+      "textures/floor-tile_rough.jpg"
+    ],
+    "bytes": 160322
+  },
+  "terrazzo": {
+    "tile": 2,
+    "maps": [
+      "textures/terrazzo_color.jpg",
+      "textures/terrazzo_normal.jpg",
+      "textures/terrazzo_rough.jpg"
+    ],
+    "bytes": 133098
+  },
+  "wood-floor": {
+    "tile": 2,
+    "maps": [
+      "textures/wood-floor_color.jpg",
+      "textures/wood-floor_normal.jpg",
+      "textures/wood-floor_rough.jpg"
+    ],
+    "bytes": 73331
+  },
+  "wood-dark": {
+    "tile": 1.2,
+    "maps": [
+      "textures/wood-dark_color.jpg",
+      "textures/wood-dark_normal.jpg",
+      "textures/wood-dark_rough.jpg"
+    ],
+    "bytes": 111303
+  },
+  "access-floor": {
+    "tile": 3.6,
+    "maps": [
+      "textures/access-floor_color.jpg",
+      "textures/access-floor_normal.jpg",
+      "textures/access-floor_rough.jpg"
+    ],
+    "bytes": 75036
+  },
+  "plaster": {
+    "tile": 2.5,
+    "maps": [
+      "textures/plaster_color.jpg",
+      "textures/plaster_normal.jpg",
+      "textures/plaster_rough.jpg"
+    ],
+    "bytes": 51432
+  },
+  "brick": {
+    "tile": 2,
+    "maps": ["textures/brick_color.jpg", "textures/brick_normal.jpg", "textures/brick_rough.jpg"],
+    "bytes": 78739
+  },
+  "concrete": {
+    "tile": 3,
+    "maps": [
+      "textures/concrete_color.jpg",
+      "textures/concrete_normal.jpg",
+      "textures/concrete_rough.jpg"
+    ],
+    "bytes": 47766
+  },
+  "asphalt": {
+    "tile": 4,
+    "maps": [
+      "textures/asphalt_color.jpg",
+      "textures/asphalt_normal.jpg",
+      "textures/asphalt_rough.jpg"
+    ],
+    "bytes": 112477
+  },
+  "grass": {
+    "tile": 3,
+    "maps": ["textures/grass_color.jpg", "textures/grass_normal.jpg", "textures/grass_rough.jpg"],
+    "bytes": 221069
+  },
+  "gravel": {
+    "tile": 2,
+    "maps": [
+      "textures/gravel_color.jpg",
+      "textures/gravel_normal.jpg",
+      "textures/gravel_rough.jpg"
+    ],
+    "bytes": 304406
+  }
+}
